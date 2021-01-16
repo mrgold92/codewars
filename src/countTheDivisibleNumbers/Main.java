@@ -1,4 +1,4 @@
-package kata2;
+package countTheDivisibleNumbers;
 
 /**
  * Complete the function that takes 3 numbers x, y and k (where x ≤ y), and
