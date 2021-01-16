@@ -18,8 +18,8 @@ public class Main {
 	}
 
 	public static long divisibleCount(long x, long y, long k) {
-		
-	return Math.floorDiv(y, k) - Math.floorDiv(x-1,k);
+
+		return Math.floorDiv(y, k) - Math.floorDiv(x - 1, k);
 
 	}
 
