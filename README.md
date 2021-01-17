@@ -11,7 +11,6 @@ Programming has millions of ways to solve an exercise. The proposed solutions ar
 | Remove string spaces                   | 8 kyu      | [Kata](https://github.com/mrgold92/codewars/tree/master/src/removeStringSpaces/Main.java)               |
 | Drying Potatoes                        | 7 kyu      | [Kata](https://github.com/mrgold92/codewars/tree/master/src/dryingPotatoes/Main.java)                   |
 | Find the smallest integer in the array | 8 kyu      | [Kata](https://github.com/mrgold92/codewars/tree/master/src/findTheSmallestIntegerInTheArray/Main.java) |
-
-
+| Are they the "same"?                   | 6 kyu      | [Kata](https://github.com/mrgold92/codewars/tree/master/src/areTheSame/Main.java)                       |
 
 
