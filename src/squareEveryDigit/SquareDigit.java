@@ -4,10 +4,6 @@ public class SquareDigit {
 
 	private static String resultado = "";
 
-	public static void main(String[] args) {
-		System.out.println(squareDigits(9119));
-	}
-
 	public static int squareDigits(int n) {
 		resultado="";
 		String a = String.valueOf(n);
