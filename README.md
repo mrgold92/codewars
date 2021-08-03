@@ -14,5 +14,6 @@ Programming has millions of ways to solve an exercise. The proposed solutions ar
 | Are they the "same"?                   |   6 kyu    | [Kata](https://github.com/mrgold92/codewars/tree/master/src/areTheSame/Main.java) |
 | Counting sheep...                      |   8 kyu    | [Kata](https://github.com/mrgold92/codewars/blob/master/src/countingSheep/Main.java) |
 | Square Every Digit                     |   7 kyu    | [Kata](https://github.com/mrgold92/codewars/blob/master/src/squareEveryDigit/SquareDigit.java) |
+| Sum Mixed Array                        |   8 kyu    | [Kata](https://github.com/mrgold92/codewars/blob/master/src/MixedSum/MixedSum.java) |
 
 
